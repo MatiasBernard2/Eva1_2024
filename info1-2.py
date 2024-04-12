@@ -1,0 +1,7 @@
+firstName = input("Cual es tu nombre? ")
+lastName = input("Cual es tu apellido? ")
+asignatura = input("Cual es tu asignatura? ")
+sede = input("Cual es tu sede de Duoc? ")
+semestre = input("En qué semestre vas? ")
+año = input("En qué año vas? ")
+print("Hola " + firstName, lastName + "! Tu asignatura es "+ asignatura +" tu sede es "+ sede +" ," " vas en el semestre "+ semestre +" " "y vas en el año " + año + " ")
